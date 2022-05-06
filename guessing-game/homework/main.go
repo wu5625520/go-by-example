@@ -41,5 +41,4 @@ func main() {
 			break
 		}
 	}
-	// 修改成fmt.Scanf来实现
 }
